@@ -5,7 +5,7 @@ import Hero from "./sections/Hero"
 import Feature from "./sections/Feature"
 import StayProductive from "./sections/StayProductive"
 import Testimonials from "./sections/Testimonials"
-import GetStarted from "./sections/getStarted"
+import GetStarted from "./sections/GetStarted"
 
 const App = () => {
   return (
