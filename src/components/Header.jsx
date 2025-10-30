@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import logo from "../assets/images/logo.svg";
-const links = ["Fauture", "Team", "Sign In"];
+const links = ["Features", "Team", "Sign In"];
 
 const Header = () => {
     const navRef = useRef();
@@ -22,7 +22,7 @@ const Header = () => {
             className="pt-[50px] fixed z-20 top-0 left-0 right-0 w-full p-5 transition-all duration-300"
         >
             <div className="container flex justify-between items-center">
-                <a href="/" className="logo flex items-center">
+                <a href="#" className="logo flex items-center">
                     <img src={logo}
                         alt="logo-imge"
                         className="w-[100px] md:w-[150px] object-contain"
