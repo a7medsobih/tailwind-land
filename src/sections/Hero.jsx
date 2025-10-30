@@ -1,4 +1,5 @@
 import heroImg from '../assets/images/illustration-intro.png'
+import curvy from "../assets/images/bg-curvy-desktop.svg";
 
 const Hero = () => {
     return (
@@ -29,7 +30,7 @@ const Hero = () => {
             </div>
             <div className="w-full h-[200px] absolute z-0 bottom-0">
                 <img
-                    src="../assets/images/bg-curvy-desktop.svg"
+                    src={curvy}
                     alt="curvy"
                     className="w-full h-full"
                 />

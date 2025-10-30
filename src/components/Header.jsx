@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-
+import logo from "../assets/images/logo.svg";
 const links = ["Fauture", "Team", "Sign In"];
 
 const Header = () => {
@@ -23,7 +23,7 @@ const Header = () => {
         >
             <div className="container flex justify-between items-center">
                 <a href="/" className="logo flex items-center">
-                    <img src="../assets/images/logo.svg"
+                    <img src={logo}
                         alt="logo-imge"
                         className="w-[100px] md:w-[150px] object-contain"
                     />
