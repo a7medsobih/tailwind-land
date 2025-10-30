@@ -16,15 +16,16 @@ const Hero = () => {
                     <div className='text-center md:max-w-[700px] max-w-full relative z-10'>
                         <h1 className='text-3xl md:text-4xl font-extrabold mb-6'>Build Modern Interfaces Faster with <span className="text-highlight">Tailwind Lab</span>
                         </h1>
-                        <p className='px-5 md:px-20 text-sm md:text-base  text-gray-300'>
+                        <p className='mb-2 px-5 md:px-20 text-sm md:text-base  text-gray-300'>
                             Discover tools, tutorials, and ready-made components to help you create beautiful, responsive websites using Tailwind CSS.
                             Simplify your workflow and bring your designs to life with clean and scalable code.
                         </p>
-                        <button
-                            className='mt-8 py-2 px-16 bg-accent text-white  rounded-full shadow-md hover:bg-highlight transition-all duration-300'
+                        <a
+                            href="#"
+                            className='py-2 px-16 bg-accent text-white  rounded-full shadow-md hover:bg-highlight transition-all duration-300'
                         >
                             Get Started
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
