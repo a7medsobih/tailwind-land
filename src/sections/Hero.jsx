@@ -29,7 +29,7 @@ const Hero = () => {
             </div>
             <div className="w-full h-[200px] absolute z-0 bottom-0">
                 <img
-                    src="/src/assets/images/bg-curvy-desktop.svg"
+                    src="../assets/images/bg-curvy-desktop.svg"
                     alt="curvy"
                     className="w-full h-full"
                 />

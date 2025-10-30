@@ -23,7 +23,7 @@ const Header = () => {
         >
             <div className="container flex justify-between items-center">
                 <a href="/" className="logo flex items-center">
-                    <img src="/src/assets/images/logo.svg"
+                    <img src="../assets/images/logo.svg"
                         alt="logo-imge"
                         className="w-[100px] md:w-[150px] object-contain"
                     />

@@ -31,6 +31,8 @@ It combines **clean design**, **optimized performance**, and **reusable React co
 |------|--------------|
 | ⚛️ **React (Vite)** | Fast and modular front-end development |
 | 🎨 **Tailwind CSS** | Utility-first styling for modern UIs |
+| 🧠 **React Hooks** | useRef, useEffect for dynamic behavior |
+| 💬 **React Icons** | Clean and scalable icon set |
 
 ---
 
