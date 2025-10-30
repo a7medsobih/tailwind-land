@@ -48,4 +48,4 @@ It combines **clean design**, **optimized performance**, and **reusable React co
 
 ---
 
-<p align="center" style="color:#94a3b8; font-size:13px;"> © 2025 Tailwind-Land. All rights reserved. Built with ❤️ using React & Tailwind CSS. </p> ```
+<p align="center" style="color:#94a3b8; font-size:13px;"> © 2025 Tailwind-Land. All rights reserved. Built with ❤️ using React & Tailwind CSS. </p> 

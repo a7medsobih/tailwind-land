@@ -3,7 +3,7 @@ import Header from "./components/Header"
 import Footer from "./components/Footer"
 import Hero from "./sections/Hero"
 import Feature from "./sections/Feature"
-import StayProductive from "./sections/stayProductive"
+import StayProductive from "./sections/StayProductive"
 import Testimonials from "./sections/Testimonials"
 import GetStarted from "./sections/getStarted"
 
